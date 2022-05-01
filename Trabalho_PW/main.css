@@ -1,0 +1,93 @@
+
+.GPA{
+    float: left ;
+    padding: 2px;
+    border-radius: 10px;
+    height: 10px;
+    margin: 50px;
+}
+.GPB{
+    float: left ;
+    padding: 2px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.GPC{
+    float: left;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.GPD{
+    float: left;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.GPE{
+    float: left;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.GPG{
+    float: left;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.G{
+    text-align: center;
+    color: #9A1032;
+}
+.JGA{
+
+    align-items: center;
+    
+}
+
+.JGB{
+    text-align: center;
+    
+}
+
+.JGC{
+    text-align: center;
+    
+}
+
+.JGD{
+    text-align: center;
+   
+    justify-content: center;
+}
+
+.JGE{
+    text-align: center;
+    
+    justify-content: center;
+}
+
+.JGG{
+    
+  
+    justify-content: center;
+}
+ 
+p.a{
+    font: 15px Georgia;
+}
+
+.estadios{
+    text-align: center;
+
+    font: 30px Georgia;
+}
+
+.fonte{
+    text-align: right ;
+}
+
+.selecao{
+    text-align: center;
+}
